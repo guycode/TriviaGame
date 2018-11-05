@@ -1,0 +1,55 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  text-align: center;
+  background-image: url(https://besthqwallpapers.com/Temp/5-11-2018/nhl-national-hockey-league-logo-emblem-ice-besthqwallpapers.com-1440x900.jpg);
+}
+
+
+
+#sub-container {
+  position: relative;
+  top: 15%;;
+}
+
+button  {
+
+	width: 40%;
+	height: 40px;
+	margin:  0 15%;
+	background-color: #5a5a5a9a;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+
+img {
+  height: 200px;
+}
+
+h1 {
+  padding-top: 2.5%;
+  font-family: 'Faster One', cursive;
+  font-size: 3em;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+}
+
+h2 {
+  margin-bottom: 25px;
+  font-size: 35px;
+}
+
+h3 {
+  margin-bottom: 10px;
+  font-size: 25px;
+}
+
+#start {
+  margin-top: 10%;
+  background: #5a5a5a9a;
+  border: 2px solid rgb(0, 0, 0);
+}
